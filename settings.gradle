@@ -1,0 +1,2 @@
+rootProject.name='Architecure Examples'
+include ':app'
